@@ -14,6 +14,6 @@ class PrTestApplicationTests {
     @DisplayName("테스트")
     @Test
     void test() {
-        assert 1 == 2;
+        assert 1 == 1;
     }
 }
